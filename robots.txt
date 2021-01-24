@@ -1,0 +1,10 @@
+User-agent: *
+Disallow:
+
+User-agent: Twitterbot
+Allow: /assets/images/
+
+User-agent: facebookexternalhit
+Allow: /assets/images/
+
+Sitemap: https://mayr.ink/sitemap.xml
